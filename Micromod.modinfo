@@ -7,8 +7,8 @@
 	"author" : "Rufran",
 	"thanks" : {
 	  "Sheights"  :  [ "Help" ],
-	},
 	"description" : "An attempt at micro colonies.",
 	"version" : "0.1"
-  }
+		}
+	}
 }
