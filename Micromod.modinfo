@@ -1,0 +1,14 @@
+{
+  "name" : "Micromod",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "displayName" : "Simple Micro Colony",
+	"author" : "Rufran",
+	"thanks" : {
+	  "Sheights"  :  [ "Help" ],
+	},
+	"description" : "An attempt at micro colonies.",
+	"version" : "0.1"
+  }
+}

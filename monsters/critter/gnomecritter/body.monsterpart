@@ -1,0 +1,9 @@
+{
+  "name" : "gnomecritter",
+  "category" : "gnomecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}
