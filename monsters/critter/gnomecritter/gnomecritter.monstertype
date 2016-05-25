@@ -17,7 +17,7 @@
       "/monsters/monster.lua"
     ],
 
-    "behavior" : "walkingcritter",
+    "behavior" : "monster",
 
     "metaBoundBox" : [-0.5, -0.5, 0.5, 0.5],
     "scale" : 1.0,
